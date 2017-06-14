@@ -3,5 +3,5 @@
 Build python from source; for example:
 
 ```
-build-python 3.5.2
+build-python.sh 3.5.2
 ```
